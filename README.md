@@ -1,3 +1,3 @@
 # Matplotlib-Homework---The-Power-of-Plots
 
-#Matplotlib Data Anlytics Homework
+#Matplotlib Data Analytics Homework
